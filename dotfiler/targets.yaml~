@@ -10,3 +10,4 @@ paths:
     ~/.config/alacritty
     ~/.config/compton
     ~/.config/dotfiler
+    ~/.zshrc
