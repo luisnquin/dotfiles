@@ -1,0 +1,12 @@
+environment: ~/.cache/dotfiles
+
+commitMessage: Automatically updated dotfiles
+
+notifications:
+    conflict: true
+    taskDone: true
+
+paths: 
+    ~/.config/alacritty
+    ~/.config/compton
+    ~/.config/dotfiler
